@@ -1,6 +1,6 @@
 # GroovyWebPractical
 
-This project will read json file and give data into excel or csv file.
+This project is realtime chat application.
 
 ---
 
